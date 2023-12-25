@@ -1,0 +1,12 @@
+.first{
+    height: 450px;
+    width: 450px;
+    border-radius: 30%;
+    background-color: aqua;
+    margin-right: 35px;
+    display:inline-block;
+    text-align: center;
+    font-size: 70px;
+
+
+}
